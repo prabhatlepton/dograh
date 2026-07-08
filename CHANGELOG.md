@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.42.0 (2026-07-08)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+### Features
+* feat(tts): add xAI as a Voice (TTS) provider by @xTararAisx in https://github.com/dograh-hq/dograh/pull/476
+### Bug Fixes
+* fix: gate OSS email/password auth endpoints outside local auth mode by @a6kme in https://github.com/dograh-hq/dograh/pull/500
+* fix: forward billing-v2 protocol on textchat KB retrieval and node su… by @a6kme in https://github.com/dograh-hq/dograh/pull/503
+* fix: fix agent stream contract with cloudonix by @a6kme in https://github.com/dograh-hq/dograh/pull/504
+* fix(auth): allow invited org members to start workflow runs by @KomalSrinivasan in https://github.com/dograh-hq/dograh/pull/509
+### Other Changes
+* Feat/enhanced timestamped transcript by @chewwbaka in https://github.com/dograh-hq/dograh/pull/501
+
+## New Contributors
+* @KomalSrinivasan made their first contribution in https://github.com/dograh-hq/dograh/pull/509
+
+**Full Changelog**: https://github.com/dograh-hq/dograh/compare/dograh-v1.41.0...dograh-v1.42.0
+
 ## 1.41.0 (2026-07-06)
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
